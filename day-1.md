@@ -1,5 +1,5 @@
 # Daily Learning
-
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" align="right"> 
 
 
 
